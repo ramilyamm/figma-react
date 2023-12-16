@@ -1,0 +1,26 @@
+.array {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    margin-left: 61px;
+    margin-top: 300px;
+    width: 55px;
+    height: 55px;
+}
+
+.right {
+    margin-right: 61px;
+    margin-top: 300px;
+    width: 55px;
+    height: 55px;
+}
+
+.sale_block {
+    margin: 100px;
+}
+
+.sale_bottom {
+    margin-top: 100px;
+}

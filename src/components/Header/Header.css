@@ -1,0 +1,93 @@
+header {
+    background: url('../../assets/images/bg_elite.png')center / cover no-repeat;
+    height: 100vh;
+    padding-top: 25px;
+}
+
+.elite_logo {
+    margin-left: 52px;
+    width: 120px;
+}
+
+
+.header_top_block {
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    margin: 0 auto;
+}
+
+.menu_item {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    list-style: none;
+}
+
+.img_title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.img_title a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.opt {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.header_btn_left {
+    position: absolute;
+    left: 70px;
+    bottom: 80px;
+    width: 280px;
+    height: 55px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: #2D2D2D;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+.header_btn_right {
+    position: absolute;
+    right: 130px;
+    bottom: 80px;
+    width: 238px;
+    height: 55px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: #2D2D2D;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 600;
+}

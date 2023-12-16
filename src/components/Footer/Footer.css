@@ -1,0 +1,74 @@
+footer {
+    background-color: #262626;
+}
+
+.footer_block {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer_text {
+    margin: 60px 0 105px;
+}
+
+.footer_info {
+    text-align: left;
+    width: 133px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.footer_company {
+    text-align: left;
+    width: 181px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.footer_address {
+    text-align: left;
+    width: 191px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.soc {
+    margin-top: 155px;
+    display: flex;
+}
+
+.footer_tel {
+    width: 191px;
+    height: 66px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+}
+
+.footer_email {
+    margin-top: 119px;
+    width: 191px;
+    text-align: left;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.footer_logo {
+    margin-top: 260px;
+}

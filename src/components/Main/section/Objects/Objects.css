@@ -1,0 +1,145 @@
+.object_top_block {
+    display: flex;
+}
+
+.obj_info {
+    display: flex;
+    margin: 70px 0 0 85px;
+}
+
+.btn_obj {
+    width: 190px;
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid #ED6B06;
+    background: #ED6B06;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.obj_left {
+    margin-left: 55px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.obj_right {
+    margin-left: 100px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+/* ============================= */
+
+.obj_card {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-bottom: 50px;
+    background-color: #5B5B5B;
+    flex: 0 1 30%;
+}
+
+.obj_img {
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+.card_info {
+    padding: 20px;
+}
+
+.card_wp {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.card_wp::after {
+    content: '';
+    width: 430px;
+    height: 2px;
+    background-color: #A6A6A4;
+    position: absolute;
+    top: 100%;
+    right: 3px;
+}
+
+
+.adresa {
+    position: relative;
+    margin: 15px 2px 30px;
+    /* display: flex; */
+}
+
+.adres {
+    position: absolute;
+    left: 3px;
+}
+
+.card_title {
+    position: relative;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    text-align: left;
+}
+
+
+.card_text {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.aleks_icon {
+    margin-top: 10px;
+    margin-right: 30px;
+    width: 45px;
+    height: 45px;
+}
+
+
+.classic_icon {
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 35px;
+    height: 40.6px;
+}
+
+.italy_icon {
+    margin-top: 30px;
+    margin-right: 30px;
+    width: 47.181px;
+    height: 31.032px;
+}
+
+.asan_icon {
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 52.864px;
+    height: 40px;
+}
